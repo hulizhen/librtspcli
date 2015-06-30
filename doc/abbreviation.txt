@@ -1,0 +1,53 @@
+Here list the most abbreviations used in the librtspcli in alphabetical order.
+
+When you can't catch on the meaning of some abbreviations,
+welcome to come back and check whether it has been listed below. ^_^
+
+
+=====================================
+  Abbreviation  |  Meaning
+=====================================
+    alloc       |   allocate
+    av          |   audio & video
+    arg         |   argument
+    buf         |   buffer
+    cb          |   callback
+    chn         |   channel
+    cli         |   client
+    conn        |   connection / connect
+    deinit      |   de-initialize / de-initialization
+    dfl         |   default
+    dst         |   destination
+    dt          |   delay task / delay time
+    ep          |   epoll
+    ev          |   event
+    fb          |   frame buffer
+    frm         |   frame
+    hdr         |   header
+    info        |   information
+    init        |   initialize / initialization
+    lsn         |   listen
+    nalu        |   NAL Unit
+    pl          |   payload
+    proc        |   process
+    pt          |   payload type
+    req         |   request
+    res         |   result
+    resp        |   response
+    ret         |   return value
+    rl          |   resource limit
+    rtn         |   return
+    sa          |   socket address
+    sd          |   socket descriptor
+    seq         |   sequence number
+    sess        |   session
+    sock        |   socket
+    src         |   source
+    srv         |   server / service
+    strm        |   stream
+    sz          |   size
+    thrd        |   thread
+    tid         |   thread id
+    tkn         |   token
+    usr         |   user
+    ver         |   version
